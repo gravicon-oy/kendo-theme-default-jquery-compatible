@@ -1,0 +1,12 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "@progress/kendo-theme-default": "4.19.0"
+  },
+  "deprecated": false,
+  "description": "Proxy package for using different versions on @progress/kendo-theme-default",
+  "license": "LicenseRef-LICENSE",
+  "main": "js/kendo.all.js",
+  "name": "@rmaenk/kendo-theme-default-jquery-compatible",
+  "version": "4.19.0"
+}
