@@ -7,6 +7,6 @@
   "description": "Proxy package for using different versions on @progress/kendo-theme-default",
   "license": "LicenseRef-LICENSE",
   "main": "js/kendo.all.js",
-  "name": "@rmaenk/kendo-theme-default-jquery-compatible",
+  "name": "@gravicon-oy/kendo-theme-default-jquery-compatible",
   "version": "4.19.0"
 }
